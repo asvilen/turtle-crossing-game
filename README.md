@@ -4,12 +4,12 @@ Welcome to the Turtle Crossing Game, where quick reflexes and a knack for dodgin
 
 ## Table of Contents
 
-- [OOP Principles 🧰](#oop-principles-)
+- [Code Structure 🧰](#code-structure-)
 - [How to Play 🎮](#how-to-play-)
 - [Installation 🚀](#installation-)
 - [Dependencies 📦](#dependencies-)
 
-## OOP Principles 🧰
+## Code Structure 🧰
 
 The Turtle Crossing Game embraces Object-Oriented Programming (OOP) to deliver a seamless gaming experience. Every game element is a meticulously crafted object, contributing to the game's dynamic nature.
 
