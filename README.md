@@ -66,6 +66,7 @@ To play the Turtle Crossing Game, follow these steps:
 
 ## Screenshots 📸
 
-This game requires Python and the Turtle graphics library. Python can be downloaded [here](https://www.python.org/downloads/).
+![image](https://github.com/asvilen/turtle-crossing-game/assets/47661156/440fbbe9-df37-4614-807c-3c600a0d008a)
+![image](https://github.com/asvilen/turtle-crossing-game/assets/47661156/a4d3c2bd-622e-4270-9156-37cb6a1b4057)
 
-The Turtle graphics library is included in Python's standard library, so no additional installation is needed.
+
