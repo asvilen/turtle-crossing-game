@@ -2,16 +2,14 @@
 
 Welcome to the Turtle Crossing Game, where quick reflexes and a knack for dodging traffic can make you a turtle hero! In this thrilling game, you take on the role of a brave turtle trying to cross a busy road safely. Watch out for speeding cars and make it to the other side to earn points and level up.
 
-Prepare for an adventure that's not just fun but also showcases the elegance of Object-Oriented Programming (OOP). Get ready to dive into the world of code and help our little turtle make it across the treacherous road.
-
 ## Table of Contents
 
-- [Object-Oriented Excellence 🧰](#object-oriented-excellence-)
+- [OOP Principles 🧰](#oop-principles-)
 - [How to Play 🎮](#how-to-play-)
 - [Installation 🚀](#installation-)
 - [Dependencies 📦](#dependencies-)
 
-## Object-Oriented Excellence 🧰
+## OOP Principles 🧰
 
 The Turtle Crossing Game embraces Object-Oriented Programming (OOP) to deliver a seamless gaming experience. Every game element is a meticulously crafted object, contributing to the game's dynamic nature.
 
