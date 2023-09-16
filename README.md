@@ -6,8 +6,8 @@ Welcome to the Turtle Crossing Game, where quick reflexes and a knack for dodgin
 
 - [Code Structure 🧰](#code-structure-)
 - [How to Play 🎮](#how-to-play-)
-- [Installation 🚀](#installation-)
-- [Dependencies 📦](#dependencies-)
+- [Installation 💻](#installation-)
+- [Screenshots 📸](#screenshots-)
 
 ## Code Structure 🧰
 
@@ -52,7 +52,7 @@ The Turtle Crossing Game is a testament to the power of structured code, showcas
 - Reach the other side to level up and earn points.
 - Watch out for speeding cars; a collision means "GAME OVER."
 
-## Installation 🚀
+## Installation 💻
 
 To play the Turtle Crossing Game, follow these steps:
 
@@ -64,7 +64,7 @@ To play the Turtle Crossing Game, follow these steps:
 
 4. Run the game by executing the `turtle_crossing_game.py` file.
 
-## Dependencies 📦
+## Screenshots 📸
 
 This game requires Python and the Turtle graphics library. Python can be downloaded [here](https://www.python.org/downloads/).
 
