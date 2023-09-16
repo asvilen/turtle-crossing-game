@@ -66,7 +66,7 @@ To play the Turtle Crossing Game, follow these steps:
 
 ## Screenshots 📸
 
-![image](https://github.com/asvilen/turtle-crossing-game/assets/47661156/440fbbe9-df37-4614-807c-3c600a0d008a)
-![image](https://github.com/asvilen/turtle-crossing-game/assets/47661156/a4d3c2bd-622e-4270-9156-37cb6a1b4057)
-
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/asvilen/turtle-crossing-game/assets/47661156/440fbbe9-df37-4614-807c-3c600a0d008a" alt="Screenshot 1" width="400" />
+  <img src="https://github.com/asvilen/turtle-crossing-game/assets/47661156/a4d3c2bd-622e-4270-9156-37cb6a1b4057" alt="Screenshot 2" width="400" />
+</div>
